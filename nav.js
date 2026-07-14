@@ -61,8 +61,8 @@
   <ul class="nav-links">${navLinks}
     <li>
       <div class="nav-social">
-        <a href="https://www.instagram.com/kingsleyschool/" target="_blank" rel="noopener" title="Instagram">📷</a>
-        <a href="https://www.facebook.com/KingsleySchoolDevon" target="_blank" rel="noopener" title="Facebook">📘</a>
+        <a href="https://www.instagram.com/kingsleyschool/" target="_blank" rel="noopener" title="Instagram" style="font-size:0.75rem;font-family:sans-serif;">IG</a>
+        <a href="https://www.facebook.com/KingsleySchoolDevon" target="_blank" rel="noopener" title="Facebook" style="font-size:0.75rem;font-family:sans-serif;">FB</a>
       </div>
     </li>
     <li><a href="mailto:admissions@kingsleydevon.com" class="nav-enquire">Enquire</a></li>
